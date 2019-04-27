@@ -3,4 +3,5 @@ jdk:
   - oraclejdk8
 os:
   - windows 
-  
+before_install:
+  - chmod +x mvnw
