@@ -1,9 +1,5 @@
 language: java
 jdk:
   - oraclejdk8
-os:
-  - windows
-  - linux
-  - osx
 before_install:
   - chmod +x mvnw
